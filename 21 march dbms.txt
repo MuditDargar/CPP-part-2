@@ -1,0 +1,8 @@
+Q1. find the name of sailors who have reserve boat 103?
+Q2. find the name of sailors who have reserve red boat?
+Q3. find the name of sailors who have reserve  not red boat?
+Q4. find the name of sailors who have reserve boat 103?
+Q5. find the sailors whos rating is better than some sailors Horatio.
+Q6. find the sailors with the highest rating?
+Q7. find the name of the sailors who reserve both red and green boat.
+Q8. fint the name of sailors who have reserve all boats.
